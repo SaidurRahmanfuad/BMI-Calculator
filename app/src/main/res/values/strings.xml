@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="difference">Difference</string>
+    <string name="cm">cm</string>
+    <string name="_15_9"><![CDATA[<=15.9]]></string>
+    <string name="cat">Category</string>
+    <string name="inch">\"</string>
+    <string name="_18_4"><![CDATA[<=18.4]]></string>
+    <string name="_18_5_24_9">18.5 - 24.9</string>
+    <string name="_24_9"><![CDATA[>24.9]]></string>
+    <string name="very_severely_underweight">Very Severely Underweight</string>
+</resources>
